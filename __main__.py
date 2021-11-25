@@ -75,7 +75,7 @@ iac_course_roles = {
     "network_contributor": f"/subscriptions/{subscription.display_name}/providers/Microsoft.Authorization/roleDefinitions/4d97b98b-1d4f-4787-a291-c67834d212e7",
 }
 
-# Grante Service Principal Network subnet 
+# Grant Service Principal Network subnet 
 iac_course_acr_perm = authorization.RoleAssignment('acrPermissions',
     principal_id=iac_course_sp.id,
     principal_type=authorization.PrincipalType.SERVICE_PRINCIPAL,
