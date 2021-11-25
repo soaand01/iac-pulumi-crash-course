@@ -1,0 +1,4 @@
+encryptionsalt: v1:PTdbNd+GVkU=:v1:zjUJnGGgf2y4ms1h:cRejRPpBE5FgLtTfstpB5UHrSCKfwQ==
+config:
+  azure-native:location: WestEurope
+  crashcourse:deployer: pulumi

@@ -1,0 +1,6 @@
+name: crashcourse
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: IaC crash course
