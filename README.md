@@ -1,6 +1,6 @@
 # iac-pulumi-crash-course
 
-Fala galera, tudo joia?!
+
 
 - Aplicar suas alterações. <br>
 <b> pulumi up. </b>
