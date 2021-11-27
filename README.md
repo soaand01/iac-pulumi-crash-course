@@ -2,13 +2,13 @@
 
 Fala galera, tudo joia?!
 
-- Aplicar as alterações. <br>
+- Aplicar suas alterações. <br>
 <b> pulumi up. </b>
 
 - Para destruir seu deployment.<br>
 <b>pulumi destroy.</b>
 
-- Para prever o deployment.<br>
+- Para prever seu deployment.<br>
 <b>pulumi preview.</b>
 
 - Para adicionar novo parametro.<br>
