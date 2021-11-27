@@ -2,17 +2,17 @@
 
 Fala galera, tudo joia?!
 
-- Aplicar as alterações
-pulumi up.
+- Aplicar as alterações. <br>
+<b> pulumi up. </b>
 
-- Para destruir seu deployment.
-pulumi destroy.
+- Para destruir seu deployment.<br>
+<b>pulumi destroy.</b>
 
-- Para prever o deployment.
-pulumi preview.
+- Para prever o deployment.<br>
+<b>pulumi preview.</b>
 
-- Para adicionar novo parametro.
-pulumi config set anderson carasuperlegal
+- Para adicionar novo parametro.<br>
+<b>pulumi config set anderson carasuperlegal</b>
 
-- Para remover parametro.
-pulumi config rm anderson
+- Para remover parametro.<br>
+<b>pulumi config rm anderson</b>
